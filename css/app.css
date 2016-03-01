@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('Top_Secret-webfont.eot');
+    src: url('Top_Secret-webfont.eot?iefix') format('eot'), url('Top_Secret-webfont.woff') format('woff'), url('Top_Secret-webfont.ttf') format('truetype'), url('Top_Secret-webfont.svg#webfont') format('svg');
+}
+
+body, h1, h2, h3, h4, h5 {
+    font-family: 'Special Elite', cursive;
+}
+
+.header,
+.footer {
+    background: url(../img/galaxy.jpg);
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.top-secret {
+  text-align: center;
+}
+.top-secret h1{
+    color: #c0090b;
+    font-family: 'MyWebFont', Arial, sans-serif;
+    font-size: 200px;
+    transform: rotate(354deg);
+    margin-top: 50px;
+
+}
