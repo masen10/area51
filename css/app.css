@@ -30,3 +30,15 @@ body, h1, h2, h3, h4, h5 {
     margin-top: 50px;
 
 }
+
+.reveal {
+    background: url(../img/cia.jpg);
+    color: #c0090b;
+    text-align: center;
+}
+.terminated {
+    background: #fff;
+    padding: 50px;
+    width: 70%;
+    margin: auto;
+}
